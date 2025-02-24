@@ -1,0 +1,40 @@
+.container_nav {
+    margin: 0 auto;
+    background-color: #C08C33;
+}
+
+.container_nav img {
+    height: 250px;
+    width: 100%;
+}
+
+.nav {
+    display: flex;
+    list-style: none;
+    padding: 1em;
+    text-align: center;
+}
+
+
+.nav li {
+    padding: .5em;
+    text-decoration: none;
+}
+
+.nav li a {
+    text-decoration: none;
+    background-color:  #C08C33;
+    padding: 1.5em;
+    padding-top: 1.8em;
+    padding-left: 3em;
+    padding-right: 3em;
+    color: #33312C;
+}
+
+.nav li a:hover {
+    transition: .5s;
+    box-shadow: 5px 5px 10px 5px #9673367c(0, 0, 0, 0.301);
+    background-color: #96774144;
+    color: white;
+}
+

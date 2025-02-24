@@ -1,0 +1,9 @@
+.primeira_imagem {
+    margin: 0 auto;
+    display: flex;
+    padding: 1em;
+}
+
+.primeira_imagem p {
+    padding: 1em;
+}

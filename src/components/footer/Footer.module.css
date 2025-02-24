@@ -1,0 +1,10 @@
+
+.footer_container {
+    display: flex;
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: .9em;
+    height: 10em;
+    margin: 1em;
+}

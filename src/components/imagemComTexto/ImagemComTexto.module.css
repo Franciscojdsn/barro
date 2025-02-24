@@ -1,0 +1,45 @@
+.primeira_imagem {
+    margin: 0 auto;
+    display: flex;
+    padding: 1em;
+}
+
+.primeira_imagem_r {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.primeira_imagem p {
+    padding: 1em;
+}
+
+@media ( max-width: 1300px) {
+
+    .primeira_imagem p {
+        color: #33312C;
+    }
+
+    .primeira_imagem {
+        margin: 0 auto;
+        width: 900px;
+        display: flex;
+        padding: 2em;
+    }
+
+    .primeira_imagem h1 {
+        margin: .5em;
+        padding-left: 1em;
+        color: #33312C ;
+    }
+
+    .primeira_imagem_r h1 {
+        margin: .5em;
+    }
+    
+    .primeira_imagem_r {
+        display: flex;
+        flex-direction: row-reverse;
+        padding: 2em;
+    }
+
+}
