@@ -1,6 +1,6 @@
 .container_nav {
     margin: 0 auto;
-    background-color: #C08C33;
+    background-color: #e49b1e;
 }
 
 .container_nav img {
@@ -23,7 +23,7 @@
 
 .nav li a {
     text-decoration: none;
-    background-color:  #C08C33;
+    background-color:  #e49b1e;;
     padding: 1.5em;
     padding-top: 1.8em;
     padding-left: 3em;
